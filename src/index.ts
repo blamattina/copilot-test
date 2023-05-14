@@ -1,1 +1,4 @@
-console.log('Hello World');
+import { merge } from "./merge";
+
+console.log(merge([1, 2, 3], [4, 5, 6], 3)); // [1, 2, 3]
+
