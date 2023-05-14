@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-      "module": "system",
+      "module": "CommonJS",
       "noImplicitAny": true,
       "strictNullChecks": true,
       "removeComments": true,
